@@ -13,7 +13,7 @@ and flag safety hazards such as workers not wearing the correct PPE or engaging 
 behavior. This can help improve safety outcomes by allowing for faster identification and
 correction of safety hazards, reducing the risk of accidents and injuries on the rig.
 
-![Screenshot (6).png](..%2F..%2F..%2F..%2FDownloads%2FScreenshot%20%286%29.png)
+![Challenge pipeline](fig1.png)
 
 Goal: Development of a deep Learning model that can identify safe/unsafe behavior (coverall,
 actions etc.) from CCTV images/videos in real time.
