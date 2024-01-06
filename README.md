@@ -15,13 +15,16 @@ correction of safety hazards, reducing the risk of accidents and injuries on the
 
 ![Challenge pipeline](fig1.png)
 
-Goal: Development of a deep Learning model that can identify safe/unsafe behavior (coverall,
+**Goal**: Development of a deep Learning model that can identify safe/unsafe behavior (coverall,
 actions etc.) from CCTV images/videos in real time.
-Working environment: Offshore platform (in the sea).
-Working conditions: In offshore operations, workers are required to wear specialize coveralls
+
+**Working environment**: Offshore platform (in the sea).
+
+**Working conditions**: In offshore operations, workers are required to wear specialize coveralls
 with a distinctive color to stand out with respect to the surrounding environment. The CCTV
 cameras are mounted (fixed) at different locations around the platform.
-Hint: The color of the coverall matters
+
+**Hint**: The color of the coverall matters
 
 ## Challenges to consider:
 - Low resolution of CCTV footage
